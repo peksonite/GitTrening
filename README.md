@@ -1,1 +1,1 @@
-# GitTrening
+# paragon z warzywniaka
