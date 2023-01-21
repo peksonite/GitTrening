@@ -1,3 +1,5 @@
 chleb 3.5
 jajka 8.0
 mleko 5.5
+
+banany 1.0
